@@ -1,7 +1,7 @@
 <template>
   <div>
     <input type="text" v-model="title">
-    <button @click="createItem">Create</button>
+    <button @click="createItem">Create item</button>
   </div>
 </template>
 
